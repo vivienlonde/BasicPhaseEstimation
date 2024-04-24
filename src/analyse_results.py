@@ -1,7 +1,7 @@
 import qsharp
 # from PhaseEstimation import run
 
-qsharp.init(project_root = '../PhaseEstimation')
+qsharp.init(project_root = '../BasicPhaseEstimation')
 
 n_shots = 10
 phi = 0.

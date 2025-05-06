@@ -47,7 +47,6 @@ namespace PhaseEstimation {
         return (nZero, nOne);
     }
 
-    // @EntryPoint()
     operation Wrapper () : (Int, Int) {
         return Run(10, 0.5, 2);
     }
